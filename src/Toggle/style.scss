@@ -1,0 +1,19 @@
+.toggle {
+  border: none;
+  outline: none;
+  width: 2rem;
+  height: 2rem;
+  background-size: contain;
+}
+
+.toggle--check {
+  background-image: url('img/check.svg');
+}
+
+.toggle--cross {
+  background-image: url('img/cross.svg');
+}
+
+.toggle--question {
+  background-image: url('img/question.svg');
+}

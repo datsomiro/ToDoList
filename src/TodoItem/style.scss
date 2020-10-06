@@ -1,0 +1,9 @@
+.todo-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+
+  &__text {
+    margin-left: 1rem;
+  }
+}
